@@ -15,7 +15,6 @@ const GithubUsers = ({ data }) => {
             return getUserData(git.url)
         })
     }
-    console.log(data2)
     return (
         <div className="github-users">
             <UserCard />
