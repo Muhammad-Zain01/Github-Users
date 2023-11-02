@@ -4,5 +4,50 @@
   padding: 40px;
 }
 .container{
-  width: 50%;
+  width: 80%;
+}
+
+.github-users{
+  display: flex;
+  flex-wrap: wrap;
+}
+.user-card{
+  width: calc(20% - 18px);
+  margin: 9px;
+}
+.avatar-container{
+  display: flex;
+  justify-content: center;
+  background-color: green;
+  position: relative;
+  height: 70px;
+  border-radius: 0.5rem;
+}
+.detail-container{
+  margin-top: 50px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+
+@media (max-width: 1200px) {
+  .user-card{
+    width: calc(25% - 18px);
+  }
+}
+@media (max-width: 992px) {
+  .user-card{
+    width: calc(33.33% - 18px);
+  }
+}
+@media (max-width: 768px) {
+  .user-card{
+    width: calc(50% - 18px);
+  }
+}
+@media (max-width: 576px) {
+  .user-card{
+    width: 100%;
+  }
 }
