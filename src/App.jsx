@@ -10,11 +10,11 @@ function App() {
     let page = 1;
     let per_page = 100;
     setLoading(true);
-    let url = "https://api.github.com/users?&per_page=1000";
+    let url = "https://api.github.com/users";
     if(query !== '') url =  `https://api.github.com/search/users?q=${query}&per_page=${per_page}&page=${page}`;
     const response = await get(url)
     if(response.status == 200){
-      console.log(response.data);
+      console.log(response);
       setData(Array.isArray(response.data) ? response.data : response.data.items)
       setLoading(false);
     }
