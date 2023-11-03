@@ -18,7 +18,7 @@
 .avatar-container{
   display: flex;
   justify-content: center;
-  background-color: green;
+  background-color: #d0d0d0;
   position: relative;
   height: 70px;
   border-radius: 0.5rem;
