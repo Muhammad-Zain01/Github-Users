@@ -5,8 +5,8 @@ const SearchBox = ({ setQuery }) => {
     return (
         <>
             <Space.Compact style={{ width: '100%' }}>
-                <Input placeholder="Search..." onChange={(e) => setValue(e.target.value)} />
-                <Button onClick={() => setQuery(value)} type="primary">Submit</Button>
+                <Input placeholder="Search..." onKeyDown={(e) => e.key === 'Enter' && setQuery(value)} onChange={(e) => setValue(e.target.value)} />
+                <Button onClick={() => setQuery(value)} type="primary">Search</Button>
             </Space.Compact>
         </>
     )
