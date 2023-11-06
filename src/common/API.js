@@ -4,9 +4,9 @@ export const get = (url) => {
         method: 'get',
         maxBodyLength: Infinity,
         url: url,
-        // headers: {
-        //     'Authorization': `Bearer ${process.env.REACT_APP_GITHUB_TOKEN}`
-        // }
+        headers: {
+            'Authorization': `Bearer ${process.env.REACT_APP_GITHUB_TOKEN}`
+        }
     };
     return axios.request(config)
         .then(function (response) {
