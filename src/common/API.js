@@ -5,7 +5,7 @@ export const get = (url) => {
         maxBodyLength: Infinity,
         url: url,
         headers: {
-            'Authorization': `Bearer ${process.env.REACT_APP_GITHUB_TOKEN}`
+            'Authorization': `Bearer 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`
         }
     };
     return axios.request(config)
