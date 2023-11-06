@@ -4,16 +4,17 @@ import { useState } from "react";
 import { get } from "../common/API";
 const UserCard = ({ value }) => {
     const [isModalOpen, setModalOpen] = useState(false);
-    const [data, setData] = useState('')
     const [loading, setLoading] = useState(false)
     const [modalData, setModalData] = useState(false)
 
     const handleModalData = async (value) => {
+        setLoading(true)
         if (value != undefined) {
             const detailURL = value?.url
             const details = await get(detailURL);
             setModalData({ ...details.data, login: value?.login, avatar_url: value?.avatar_url })
         }
+        setLoading(false)
     }
     const getUserData = async () => {
         await handleModalData(value);
@@ -30,6 +31,7 @@ const UserCard = ({ value }) => {
                     <Typography.Text style={{ fontSize: 15, color: '#adadad' }}>@{value?.login}</Typography.Text>
                 </div>
             </Card>
+            
             <UserModal isOpen={isModalOpen} setOpen={setModalOpen} modalData={modalData} setModal={handleModalData} loading={loading} value={value} />
         </div>
     )
