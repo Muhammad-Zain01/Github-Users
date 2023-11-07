@@ -68,8 +68,10 @@ export const GitUserContextProvider = ({ children }) => {
         const handleInit = async () => {
             SetValue("START_FETCH")
             await get("https://api.github.com/users")
-                .then((response) => SetValue("SUCCESS_FETCH", response.data))
-                .catch((error) => SetValue("ERROR_FETCH", error))
+                .then((response) => {
+                    SetValue("SUCCESS_FETCH", response.data)
+                })
+                .catch((error) => SetValue("ERROR_FETCH", error.response.data))
         }
         handleInit()
     }, [])
@@ -85,7 +87,7 @@ export const GitUserContextProvider = ({ children }) => {
                     SetValue("TOTAL_COUNT", count)
                     SetValue("SUCCESS_FETCH_USERS", { data: response.data.items, pages },)
                 })
-                .catch((error) => SetValue("ERROR_FETCH", error))
+                .catch((error) => SetValue("ERROR_FETCH", error.response.data))
         }
         if (state.query != '') handleSearchUser()
     }, [state.query, state.current_page])
