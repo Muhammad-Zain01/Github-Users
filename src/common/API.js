@@ -4,16 +4,10 @@ export const get = (url) => {
         method: 'get',
         maxBodyLength: Infinity,
         url: url,
-        headers: {
-            'Authorization': 'Bearer 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'
-        }
+        // headers: {
+        //     'Authorization': 'Bearer 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'
+        // }
     };
     return axios.request(config)
-        .then(function (response) {
-            return response;
-        })
-        .catch(function (error) {
-            return error;
-        })
 }
 
