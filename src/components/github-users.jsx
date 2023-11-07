@@ -4,12 +4,11 @@ import { Empty, Skeleton, Pagination } from "antd";
 import { useGithub } from "../hooks/useGithub";
 const GithubUsers = () => {
     const { data, loading, pages, SetValue, current_page } = useGithub()
-    
     return (
         <div className="github-users">
             <Skeleton loading={loading} >
                 {
-                    data.length
+                    data != undefined && data.length
                         ?
                         <>
                             {
