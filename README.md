@@ -16,9 +16,8 @@
     Welcome to the GitHub User Directory - your portal to explore and discover GitHub users along with their followers and repositories!
 
     Our application offers a user-friendly interface that allows you to search for GitHub profiles using usernames. Once a profile is found, the app presents a detailed view including the user's avatar, bio, and a comprehensive list of their public repositories. Additionally, you can delve into the user's network by viewing a list of their followers, making it easier to explore community connections and collaborations.
-
-
-    <br />
+  </p>
+  <br />
     <a href="https://github.com/muhammad-zain01/Github-Users"><strong>Explore the docs »</strong></a>
     <br />
     <br />
@@ -27,7 +26,6 @@
     <a href="https://github.com/muhammad-zain01/Github-Users/issues">Report Bug</a>
     ·
     <a href="https://github.com/muhammad-zain01/Github-Users/issues">Request Feature</a>
-  </p>
 </div>
 
 
@@ -209,7 +207,7 @@ Project Link: [https://github.com/muhammad-zain01/Github-Users](https://github.c
 [license-url]: https://github.com/muhammad-zain01/Github-Users/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/linkedin_username
-[product-screenshot]: images/screenshot.png
+[product-screenshot]: https://raw.githubusercontent.com/Muhammad-Zain01/Github-Users/main/preview.png
 [Next.js]: https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
 [Next-url]: https://nextjs.org/
 [React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
