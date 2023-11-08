@@ -13,9 +13,7 @@
 <h3 align="center">Github User Directory</h3>
 
   <p align="center">
-    Welcome to the GitHub User Directory - your portal to explore and discover GitHub users along with their followers and repositories!
-
-    Our application offers a user-friendly interface that allows you to search for GitHub profiles using usernames. Once a profile is found, the app presents a detailed view including the user's avatar, bio, and a comprehensive list of their public repositories. Additionally, you can delve into the user's network by viewing a list of their followers, making it easier to explore community connections and collaborations.
+    Welcome to the GitHub User Directory - your portal to explore and discover GitHub users along with their followers and repositories. Our application offers a user-friendly interface that allows you to search for GitHub profiles using usernames. Once a profile is found, the app presents a detailed view including the user's avatar, bio, and a comprehensive list of their public repositories. Additionally, you can delve into the user's network by viewing a list of their followers, making it easier to explore community connections and collaborations.
   </p>
   <br />
     <a href="https://github.com/muhammad-zain01/Github-Users"><strong>Explore the docs »</strong></a>
