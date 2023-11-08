@@ -21,6 +21,8 @@
     -
     <a href="https://github.com/muhammad-zain01/Github-Users/issues">Request Feature</a>
     <br />
+    <br />
+    <br />
 </div>
 
 
@@ -52,22 +54,15 @@ This is an example of how to list things you need to use the software and how to
 
 ### Installation
 
-1. Get a free API Key at [https://example.com](https://example.com)
-2. Clone the repo
+1. Clone the repo
    ```sh
    git clone https://github.com/muhammad-zain01/Github-Users.git
    ```
-3. Install NPM packages
+2. Install NPM packages
    ```sh
    npm install
    ```
-<!-- 4. Enter your API in `config.js`
-   ```js
-   const API_KEY = 'ENTER YOUR API';
-   ``` -->
 See the [open issues](https://github.com/muhammad-zain01/Github-Users/issues) for a full list of proposed features (and known issues).
-
-
 
 
 <!-- CONTRIBUTING -->
@@ -85,20 +80,10 @@ Don't forget to give the project a star! Thanks again!
 5. Open a Pull Request
 
 
-
-
-<!-- LICENSE -->
-## License
-
-Distributed under the MIT License. See `LICENSE.txt` for more information.
-
-
-
-
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@twitter_handle](https://twitter.com/twitter_handle) - email@email_client.com
+Your Name - zainmemon010@gmail.com
 
 Project Link: [https://github.com/muhammad-zain01/Github-Users](https://github.com/muhammad-zain01/Github-Users)
 
