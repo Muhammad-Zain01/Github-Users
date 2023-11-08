@@ -1,13 +1,12 @@
-<!-- PROJECT LOGO -->
 <br />
 <div align="center">
 
 <h3 align="center">Github User Directory</h3>
 <div>
-    <img src="https://img.shields.io/github/contributors/muhammad-zain01/Github-Users.svg?style=for-the-badge" />
-    <img src="https://img.shields.io/github/forks/muhammad-zain01/Github-Users.svg?style=for-the-badge" />
-    <img src="https://img.shields.io/github/stars/muhammad-zain01/Github-Users.svg?style=for-the-badge" />
-    <img src="https://github.com/muhammad-zain01/Github-Users/issues" />
+    <a href="https://github.com/muhammad-zain01/Github-Users/graphs/contributors"><img src="https://img.shields.io/github/contributors/muhammad-zain01/Github-Users.svg?style=for-the-badge" /></a>
+    <a href="https://github.com/muhammad-zain01/Github-Users/network/members"><img src="https://img.shields.io/github/forks/muhammad-zain01/Github-Users.svg?style=for-the-badge" /></a>
+    <a href="https://github.com/muhammad-zain01/Github-Users/stargazers"><img src="https://img.shields.io/github/stars/muhammad-zain01/Github-Users.svg?style=for-the-badge" /></a>
+    <a href="https://github.com/muhammad-zain01/Github-Users/issues"><img src="https://img.shields.io/github/issues/muhammad-zain01/Github-Users.svg?style=for-the-badge" /></a>
 </div>
 
   <p align="center" style="text-align: justify;">
