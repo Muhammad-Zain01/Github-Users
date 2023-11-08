@@ -1,6 +1,3 @@
-
-<a name="readme-top"></a>
-
 [![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
@@ -22,7 +19,9 @@
     <a href="https://github.com/muhammad-zain01/Github-Users/issues">Report Bug</a>
     -
     <a href="https://github.com/muhammad-zain01/Github-Users/issues">Request Feature</a>
+    <br />
 </div>
+
 
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
 
@@ -67,7 +66,6 @@ This is an example of how to list things you need to use the software and how to
    ``` -->
 See the [open issues](https://github.com/muhammad-zain01/Github-Users/issues) for a full list of proposed features (and known issues).
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 
@@ -85,7 +83,6 @@ Don't forget to give the project a star! Thanks again!
 4. Push to the Branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 
@@ -94,7 +91,6 @@ Don't forget to give the project a star! Thanks again!
 
 Distributed under the MIT License. See `LICENSE.txt` for more information.
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 
@@ -121,7 +117,7 @@ Project Link: [https://github.com/muhammad-zain01/Github-Users](https://github.c
 [product-screenshot]: https://raw.githubusercontent.com/Muhammad-Zain01/Github-Users/main/preview.png
 [Next.js]: https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
 [Next-url]: https://nextjs.org/
-[React.js]: https://img.shields.io/badge/React-black?style=for-the-badge&logo=react&logoColor=white
+[React.js]: https://img.shields.io/badge/React-4A4A55?style=for-the-badge&logo=react&logoColor=white
 [React-url]: https://reactjs.org/
 [Vue.js]: https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D
 [Vue-url]: https://vuejs.org/
