@@ -11,78 +11,32 @@
 <div align="center">
 
 <h3 align="center">Github User Directory</h3>
-
-  <p align="center">
+  <p align="center" style="text-align: justify;">
     Welcome to the GitHub User Directory - your portal to explore and discover GitHub users along with their followers and repositories. Our application offers a user-friendly interface that allows you to search for GitHub profiles using usernames. Once a profile is found, the app presents a detailed view including the user's avatar, bio, and a comprehensive list of their public repositories. Additionally, you can delve into the user's network by viewing a list of their followers, making it easier to explore community connections and collaborations.
   </p>
-  <br />
     <a href="https://github.com/muhammad-zain01/Github-Users"><strong>Explore the docs »</strong></a>
     <br />
     <br />
     <a href="https://muhammad-zain01.github.io/Github-Users/">View Demo</a>
-    ·
+    -
     <a href="https://github.com/muhammad-zain01/Github-Users/issues">Report Bug</a>
-    ·
+    -
     <a href="https://github.com/muhammad-zain01/Github-Users/issues">Request Feature</a>
 </div>
 
-
-
-<!-- TABLE OF CONTENTS -->
-<details>
-<summary>Table of Contents</summary>
-  <ol>
-    <li>
-      <a href="#about-the-project">About The Project</a>
-      <ul>
-        <li><a href="#built-with">Built With</a></li>
-      </ul>
-    </li>
-    <li>
-      <a href="#getting-started">Getting Started</a>
-      <ul>
-        <li><a href="#prerequisites">Prerequisites</a></li>
-        <li><a href="#installation">Installation</a></li>
-      </ul>
-    </li>
-    <li><a href="#usage">Usage</a></li>
-    <li><a href="#roadmap">Roadmap</a></li>
-    <li><a href="#contributing">Contributing</a></li>
-    <li><a href="#license">License</a></li>
-    <li><a href="#contact">Contact</a></li>
-    <li><a href="#acknowledgments">Acknowledgments</a></li>
-  </ol>
-</details>
-
-
-
-<!-- ABOUT THE PROJECT -->
-## About The Project
-
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
-
-Here's a blank template to get started: To avoid retyping too much info. Do a search and replace with your text editor for the following: `muhammad-zain01`, `Github-Users`, `twitter_handle`, `linkedin_username`, `email_client`, `email`, `project_title`, `project_description`
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
 
 ### Built With
 
-* [![Next][Next.js]][Next-url]
+<!-- * [![Next][Next.js]][Next-url] -->
 * [![React][React.js]][React-url]
-* [![Vue][Vue.js]][Vue-url]
-* [![Angular][Angular.io]][Angular-url]
-* [![Svelte][Svelte.dev]][Svelte-url]
-* [![Laravel][Laravel.com]][Laravel-url]
-* [![Bootstrap][Bootstrap.com]][Bootstrap-url]
-* [![JQuery][JQuery.com]][JQuery-url]
+<!-- * [![Vue][Vue.js]][Vue-url] -->
+<!-- * [![Angular][Angular.io]][Angular-url] -->
+<!-- * [![Svelte][Svelte.dev]][Svelte-url] -->
+<!-- * [![Laravel][Laravel.com]][Laravel-url] -->
+<!-- * [![Bootstrap][Bootstrap.com]][Bootstrap-url] -->
+<!-- * [![JQuery][JQuery.com]][JQuery-url] -->
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-
-<!-- GETTING STARTED -->
 ## Getting Started
 
 This is an example of how you may give instructions on setting up your project locally.
@@ -107,34 +61,10 @@ This is an example of how to list things you need to use the software and how to
    ```sh
    npm install
    ```
-4. Enter your API in `config.js`
+<!-- 4. Enter your API in `config.js`
    ```js
    const API_KEY = 'ENTER YOUR API';
-   ```
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-
-<!-- USAGE EXAMPLES -->
-## Usage
-
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
-
-_For more examples, please refer to the [Documentation](https://example.com)_
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-
-<!-- ROADMAP -->
-## Roadmap
-
-- [ ] Feature 1
-- [ ] Feature 2
-- [ ] Feature 3
-    - [ ] Nested Feature
-
+   ``` -->
 See the [open issues](https://github.com/muhammad-zain01/Github-Users/issues) for a full list of proposed features (and known issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -175,23 +105,6 @@ Your Name - [@twitter_handle](https://twitter.com/twitter_handle) - email@email_
 
 Project Link: [https://github.com/muhammad-zain01/Github-Users](https://github.com/muhammad-zain01/Github-Users)
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-
-<!-- ACKNOWLEDGMENTS -->
-## Acknowledgments
-
-* []()
-* []()
-* []()
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-
-<!-- MARKDOWN LINKS & IMAGES -->
-<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 
 [contributors-shield]: https://img.shields.io/github/contributors/muhammad-zain01/Github-Users.svg?style=for-the-badge
 [contributors-url]: https://github.com/muhammad-zain01/Github-Users/graphs/contributors
@@ -222,47 +135,3 @@ Project Link: [https://github.com/muhammad-zain01/Github-Users](https://github.c
 [Bootstrap-url]: https://getbootstrap.com
 [JQuery.com]: https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white
 [JQuery-url]: https://jquery.com 
-
-
-<div align="center">
-  <br />
-  <h1>Github Users</h1>
-  <p>
-     
-  </p>
-</div>
-
-![Preivew](https://raw.githubusercontent.com/Muhammad-Zain01/Github-Users/main/preview.png)
-
-
-<!-- Badges -->
-<div align="center">
-   <a href="https://github.com/muhammad-zain01/Github-Users/releases">
-       <img src="https://img.shields.io/github/v/release/muhammad-zain01/Test?display_name=tag" alt="current realease" />
-   </a>
-   <a href="https://github.com/muhammad-zain01/Github-Users/blob/master/LICENSE">
-       <img src="https://img.shields.io/github/license/muhammad-zain01/Github-Users" alt="license" />
-   </a>
-   <a href="https://github.com/muhammad-zain01/Github-Users/stargazers">
-       <img src="https://img.shields.io/github/stars/muhammad-zain01/Github-Users" alt="stars" />
-   </a>
-   <a href="https://github.com/muhammad-zain01/Github-Users/commits/master">
-       <img src="https://img.shields.io/github/last-commit/muhammad-zain01/Github-Users" alt="last commit" />
-   </a>
-</div>
-
----
-
-* [Bugs](#bugs)
-* [Release Notes](#release-notes)
-
----
-
-## Bugs
-
-* *no known bugs*
-
----
-
-
-by [Muhammad Zain](https://github.com/muhammad-zain01)
