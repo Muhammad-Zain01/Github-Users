@@ -1,13 +1,15 @@
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
 
 <h3 align="center">Github User Directory</h3>
+<div>
+    <img src="https://img.shields.io/github/contributors/muhammad-zain01/Github-Users.svg?style=for-the-badge" />
+    <img src="https://img.shields.io/github/forks/muhammad-zain01/Github-Users.svg?style=for-the-badge" />
+    <img src="https://img.shields.io/github/stars/muhammad-zain01/Github-Users.svg?style=for-the-badge" />
+    <img src="https://github.com/muhammad-zain01/Github-Users/issues" />
+</div>
+
   <p align="center" style="text-align: justify;">
     Welcome to the GitHub User Directory - your portal to explore and discover GitHub users along with their followers and repositories. Our application offers a user-friendly interface that allows you to search for GitHub profiles using usernames. Once a profile is found, the app presents a detailed view including the user's avatar, bio, and a comprehensive list of their public repositories. Additionally, you can delve into the user's network by viewing a list of their followers, making it easier to explore community connections and collaborations.
   </p>
