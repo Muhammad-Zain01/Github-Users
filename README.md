@@ -80,14 +80,6 @@ Don't forget to give the project a star! Thanks again!
 5. Open a Pull Request
 
 
-<!-- CONTACT -->
-## Contact
-
-Your Name - zainmemon010@gmail.com
-
-Project Link: [https://github.com/muhammad-zain01/Github-Users](https://github.com/muhammad-zain01/Github-Users)
-
-
 [contributors-shield]: https://img.shields.io/github/contributors/muhammad-zain01/Github-Users.svg?style=for-the-badge
 [contributors-url]: https://github.com/muhammad-zain01/Github-Users/graphs/contributors
 [forks-shield]: https://img.shields.io/github/forks/muhammad-zain01/Github-Users.svg?style=for-the-badge
